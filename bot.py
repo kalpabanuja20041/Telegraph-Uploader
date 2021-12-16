@@ -114,6 +114,6 @@ def resize_image(image):
     im.save(image, "PNG")
 
 
-logging.info("\n\nBot has started.\n(c) @Godmrunal")
+logging.info("\n\nBot has started.\n(c) @Dilasnalithmantha")
 
 bot.run_until_disconnected()
