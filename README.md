@@ -17,11 +17,8 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/msy1717/Telegraph-Uploader/main/LICENSE)
 
 ----
-## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
-                          
-<a href="https://t.me/BotzOfficial_Support"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Botz_Official"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
-   
+
+
 # Deploying
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dilasnaafk/Telegraph-Uploader)
-- [⚡️ ＭＲＵＮＡＬ•🇮🇳•🚀](https://t.me/Godmrunal)
+
