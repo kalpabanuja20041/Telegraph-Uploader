@@ -38,12 +38,12 @@ async def start_(event):
         ),
         buttons=[
             [
-                Button.url("Repo🌟", url="https://github.com/msy1717/Telegraph-Uploader"),
+                Button.url("Repo🌟", url="https://github.com/Dilasnaafk/Telegraph-Uploader"),
                 Button.url(
-                    "Developer⚡️", url="https://t.me/Godmrunal"
+                    "Developer⚡️", url="https://t.me/Dilasnalithmantha"
                 ),
             ],
-            [Button.url("Channel🌈", url="https://t.me/Botz_Official")],
+            [Button.url("Channel🌈", url="https://t.me/SLninjaTeamchannel")],
         ],
     )
 
