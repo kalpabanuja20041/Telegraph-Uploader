@@ -1,5 +1,5 @@
-# < (c) 2021 @Godmrunal >
-#Developed by @Botz_Official
+# < (c) 2021 Dilasnaafk >
+#Developed by @SLNinjaTeam
 #copy with credit
 
 import logging
