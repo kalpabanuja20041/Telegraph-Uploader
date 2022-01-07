@@ -20,6 +20,6 @@
 
 
 # Deploying
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dilasnaafk/Telegraph-Uploader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalpabanuja20041/Telegraph-Uploader)
 
 comment = fork and star
