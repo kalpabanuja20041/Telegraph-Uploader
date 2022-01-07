@@ -38,12 +38,12 @@ async def start_(event):
         ),
         buttons=[
             [
-                Button.url("Repo🌟", url="https://github.com/Dilasnaafk/Telegraph-Uploader"),
+                Button.url("Repo🌟", url="https://github.com/kalpabanuja20041/Telegraph-Uploader"),
                 Button.url(
-                    "Developer⚡️", url="https://t.me/Dilasnalithmantha"
+                    "Developer⚡️", url="https://t.me/kalpabanuja"
                 ),
             ],
-            [Button.url("Channel🌈", url="https://t.me/SLninjaTeamchannel")],
+            [Button.url("Channel🌈", url="https://t.me/DaRK_GVEAWAYZ")],
         ],
     )
 
@@ -114,6 +114,6 @@ def resize_image(image):
     im.save(image, "PNG")
 
 
-logging.info("\n\nBot has started.\n(c) @Dilasnalithmantha")
+logging.info("\n\nBot has started.\n(c) @kalpabanuja")
 
 bot.run_until_disconnected()
