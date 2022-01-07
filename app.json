@@ -1,7 +1,7 @@
 {
     "name": "TelgramBot",
     "description": "Telegraph Uploader Bot",
-    "logo": "https://telegra.ph/file/406b09715dff3c55ca819.jpg",
+    "logo": "https://telegra.ph/file/e899ec667354776459f4e.png",
     "keywords": [
         "telegram",
         "telethon",
@@ -9,7 +9,7 @@
         "Botz_Official"
     ],
     "repository": "https://github.com/msy1717/TelegramBot",
-    "success_url": "https://t.me/Botz_Official",
+    "success_url": "https://t.me/DaRK_GVEAWAYZ",
     "env": {
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
