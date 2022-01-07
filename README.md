@@ -1,9 +1,9 @@
 # Telegraph-Uploader
 # Telegraph Uploader
- 𝐁𝐞𝐬𝐭 Telegraph Uploader Bot to get telegraph link. 𝐁𝐲 @SLNinjaTeam
+ 𝐁𝐞𝐬𝐭 Telegraph Uploader Bot to get telegraph link. 𝐁𝐲 @kalpabanuja
  
  <p align="center">
-  <img src="https://telegra.ph/file/406b09715dff3c55ca819.jpg">
+  <img src="https://telegra.ph/file/e899ec667354776459f4e.png">
 </p>
 
 
